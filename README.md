@@ -1,6 +1,10 @@
 # 📊 Customer Churn Analysis & Prediction using SQL, Power BI & Machine Learning
 
 ---
+**🔗 GitHub Repository:**
+https://github.com/Sajid-DataScience-AI/customer-churn-analysis-powerbi
+
+---
 
 ## 🚀 Project Overview
 This project presents a complete **end-to-end Customer Churn Analysis and Prediction system** using SQL, Power BI, and Machine Learning.
